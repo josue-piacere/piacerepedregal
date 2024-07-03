@@ -159,7 +159,7 @@ div#portada-banos {
 
 
 #tira_marcas {
-    background-image: url(/assets/img/tira_marcas.png);
+    background-color: #F9F9F9;
     background-repeat: repeat-x;
     background-size: cover;
     width: 100%;
